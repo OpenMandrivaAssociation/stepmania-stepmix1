@@ -10,7 +10,7 @@ Release: %{release}
 Source0: http://files.tfbw.com/stepmania/songs/StepMania_all_StepMix1_entries.smzip
 License: Creative Commons Attribution/Attribution-ShareAlike 2.5
 Group: Games/Arcade
-Url: http://www.stepmania.com/wiki/StepMix_1_Contest
+Url: https://www.stepmania.com/wiki/StepMix_1_Contest
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
